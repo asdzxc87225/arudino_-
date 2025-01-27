@@ -1,0 +1,36 @@
+# LaTeX intermediate and output files
+*.aux
+*.log
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+*.bbl
+*.blg
+*.dvi
+*.xdv
+*.pdf
+*.ps
+*.eps
+*.lof
+*.lot
+
+# Editor or tool-specific files
+*~
+*.bak
+*.sav
+*.swp
+*.swo
+*.tmp
+
+# Overleaf
+.overleaf/
+
+# Ignore build directories (if any)
+_build/
+latex.out/
+
